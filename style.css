@@ -3,13 +3,15 @@ body {
     padding: 0px;
     text-align: center;
     background-color: antiquewhite;
-
-
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+
 
 .title {
     background-color: pink;
     text-align: center;
+    padding: 8px;
 }
 
 
