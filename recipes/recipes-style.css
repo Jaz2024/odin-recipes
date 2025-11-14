@@ -1,0 +1,41 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(245, 245, 220, 0.777);
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: bisque;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+}
+
+ul,
+ol {
+    display: inline-block;
+    text-align: left;
+    
+}
+
+
+a {
+    text-align: center;
+    display: block;
+    background-color: rgb(214, 234, 251);
+    padding: 10px;
+    font-size: larger;
+
+}
