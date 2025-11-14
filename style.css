@@ -1,6 +1,10 @@
 body {
     margin: 0px;
     padding: 0px;
+    text-align: center;
+    background-color: antiquewhite;
+
+
 }
 
 .title {
@@ -8,11 +12,16 @@ body {
     text-align: center;
 }
 
-.card {
-    background-color: hsla(39, 100%, 50%, 0.546);
+
+
+ul {
+    display: inline-block;
+    text-align: left;
+    margin: 0;
 }
 
-.card li {
+li {
     padding: 6px;
-    margin-left: 670px;
+    text-align: center;
+
 }
